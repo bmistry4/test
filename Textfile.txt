@@ -7,3 +7,4 @@ Minor addition in master (before merge and faviourite branch has commited with a
 Favourites:
 - col : green
 - animal : elephant
+-hobby : sleeping
