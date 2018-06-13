@@ -1,1 +1,6 @@
 This is a text file line one
+
+I am changing the master text file
+
+Favourites:
+- 
