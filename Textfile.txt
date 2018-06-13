@@ -5,6 +5,7 @@ This will be about fav stuff and animals
 Favourites:
 Col : green
 Animal : elephant
+Hobby : sleeping
 
 
 Animals:
