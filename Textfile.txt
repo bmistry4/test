@@ -3,4 +3,5 @@ This is a text file line one
 I am changing the master text file
 Now I need to push this master text file to the fav branch too
 Favourites:
-- 
+- col : green
+- animal : elephant
