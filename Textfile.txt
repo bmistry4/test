@@ -1,0 +1,3 @@
+Favourites:
+Col : green
+Animal : elephant
