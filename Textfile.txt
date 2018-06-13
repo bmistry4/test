@@ -1,7 +1,9 @@
 This is a text file line one
 
 I am changing the master text file
-Now I need to push this master text file to the fav branch too
+Now I need to push this master text file to the fav branch too - DONE
+Minor addition in master (before merge and faviourite branch has commited with additions, just need to merge)
+
 Favourites:
 - col : green
 - animal : elephant
