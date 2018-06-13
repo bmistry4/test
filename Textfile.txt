@@ -3,3 +3,10 @@ Branch test. Will add info on favourites and maths
 Favourites:
 Col : green
 Animal : elephant
+
+
+Animals:
+Alligator
+Ant
+Dog
+Cat
